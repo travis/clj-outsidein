@@ -1,6 +1,6 @@
 # clj-outsidein
 
-A Clojure library for the Outside.in API
+A Clojure library for the [Outside.in API](http://developers.outside.in/)
 
 ## Usage
 
