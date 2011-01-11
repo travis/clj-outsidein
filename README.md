@@ -1,8 +1,13 @@
-# outsidein-sandbox
+# clj-outsidein
 
 A Clojure library for the Outside.in API
 
 ## Usage
+
+The easiest way to use clj-outsidein is to grab it from
+[Clojars](http://clojars.org/clj-outsidein).
+
+### Examples
 
 
     (use 'outsidein.core)
