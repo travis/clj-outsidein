@@ -10,7 +10,9 @@ The easiest way to use clj-outsidein is to grab it from
 ### Examples
 
 
-    (use 'outsidein.core)
+    (use 'outsidein.core
+         'resrc.core
+         '[clojure.contrib.json :only [read-json]])
 
     (def root (oi-resource (oi-http-client "key" "secret")))
 
